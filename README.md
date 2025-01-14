@@ -8,7 +8,7 @@ seguem abaixo.
 
 
 
-<a href="" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/LopesD92/Projeto-EBOOK-Gerado-por-IAs-DIO/blob/main/Ebook%20-%20Game%20Over%20na%20Fome%20-%20Sabores%20dos%20Games%20e%20Animes.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
